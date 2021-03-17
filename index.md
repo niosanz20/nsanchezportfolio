@@ -120,6 +120,7 @@
                     <span>sanchez.nicko1994@gmail.com</span>
                   </li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Resume Link:</strong> <a href="https://drive.google.com/file/d/1Zls38Q8OWN1I7utn_Wd6eyma3QqVo7z4/view?usp=sharing" target="blank"><span>My CV</span></a></li>
                 </ul>
               </div>
             </div>
@@ -194,17 +195,8 @@
               <p><em>Below are the fields that I am good at.</em></p>
               <h5>Programming Languages</h5>
               <ul>
-                <div class="row">
-                  <div class="col-lg-6">
-                    <li>C</li>
-                    <li>Java</li>
-                    <li>Cobol</li>
-                  </div>
-                  <div class="col-lg-6">
-                    <li>C#</li>
-                    <li>PHP</li>
-                  </div>
-                </div>
+                <li>C#</li>
+                <li>PHP</li>
               </ul>
               <h5>Scripting Languages and Frameworks</h5>
               <ul>
@@ -297,7 +289,7 @@
                 <p>App</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery"
-                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                    class="portfolio-lightbox" ><i class="bx bx-plus"></i></a>
                   <a href="braats-portfolio-details.html" class="portfolio-details-lightbox"
                     data-glightbox="type: external" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
@@ -314,7 +306,7 @@
                 <p>Web</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery"
-                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                    class="portfolio-lightbox" ><i class="bx bx-plus"></i></a>
                   <a href="thebar-portfolio-details.html" class="portfolio-details-lightbox"
                     data-glightbox="type: external" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
@@ -331,7 +323,7 @@
                 <p>App</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery"
-                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                    class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external"
                     title="More Details"><i class="bx bx-link"></i></a>
                 </div>
@@ -348,7 +340,7 @@
                 <p>Graphics</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery"
-                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                    class="portfolio-lightbox" ><i class="bx bx-plus"></i></a>
                   <a href="lamaria-portfolio-details.html" class="portfolio-details-lightbox"
                     data-glightbox="type: external" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
@@ -365,7 +357,7 @@
                 <p>Web</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery"
-                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                    class="portfolio-lightbox" ><i class="bx bx-plus"></i></a>
                   <a href="rclc-portfolio-details.html" class="portfolio-details-lightbox"
                     data-glightbox="type: external" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
@@ -381,7 +373,7 @@
                 <p>App</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery"
-                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                    class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
                   <a href="portfolio-details.html" class="portfolio-details-lightbox" data-glightbox="type: external"
                     title="More Details"><i class="bx bx-link"></i></a>
                 </div>
@@ -398,7 +390,7 @@
                 <p>Graphics</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery"
-                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                    class="portfolio-lightbox" ><i class="bx bx-plus"></i></a>
                   <a href="tarp-portfolio-details.html" class="portfolio-details-lightbox"
                     data-glightbox="type: external" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
@@ -415,7 +407,7 @@
                 <p>Graphics</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery"
-                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                    class="portfolio-lightbox" ><i class="bx bx-plus"></i></a>
                   <a href="caliptint-portfolio-details.html" class="portfolio-details-lightbox"
                     data-glightbox="type: external" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
@@ -432,7 +424,7 @@
                 <p>Web</p>
                 <div class="portfolio-links">
                   <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery"
-                    class="portfolio-lightbox"><i class="bx bx-plus"></i></a>
+                    class="portfolio-lightbox" ><i class="bx bx-plus"></i></a>
                   <a href="jnfurniture-portfolio-details.html" class="portfolio-details-lightbox"
                     data-glightbox="type: external" title="More Details"><i class="bx bx-link"></i></a>
                 </div>
