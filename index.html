@@ -120,7 +120,7 @@
                     <span>sanchez.nicko1994@gmail.com</span>
                   </li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Resume Link:</strong> <a href="https://drive.google.com/file/d/1Zls38Q8OWN1I7utn_Wd6eyma3QqVo7z4/view?usp=sharing" target="blank"><span>My CV</span></a></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Resume Link:</strong> <a href="https://www.canva.com/design/DAEZkIl2Ans/lffVG6k5i0SW-Ly_qV-SgA/view?utm_content=DAEZkIl2Ans&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="blank"><span>My CV</span></a></li>
                 </ul>
               </div>
             </div>
