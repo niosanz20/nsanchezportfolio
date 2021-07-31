@@ -40,7 +40,8 @@
 <body>
 
   <!-- ======= Mobile nav toggle button ======= -->
-  <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
+
+<i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
 
   <!-- ======= Header ======= -->
   <header id="header">
@@ -50,11 +51,11 @@
         <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle">
         <h1 class="text-light"><a href="index.html">Nicko Sanchez</a></h1>
         <div class="social-links mt-3 text-center">
-          <a href="https://www.facebook.com/niosanz20" class="facebook"><i class="bx bxl-facebook"></i></a>
-          <a href="https://github.com/niosanz20" class="github"><i class="bx bxl-github"></i></a>
+          <a href="https://www.facebook.com/niosanz20" class="facebook" target="blank"><i class="bx bxl-facebook"></i></a>
+          <a href="https://github.com/niosanz20" class="github" target="blank"><i class="bx bxl-github"></i></a>
           <!-- <a href="https://www.instagram.com/niosanz20" class="instagram"><i class="bx bxl-instagram"></i></a> -->
           <!-- <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a> -->
-          <a href="https://www.linkedin.com/in/niosanz20" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          <a href="https://www.linkedin.com/in/niosanz20" class="linkedin" target="blank"><i class="bx bxl-linkedin"></i></a>
         </div>
       </div>
 
@@ -69,6 +70,7 @@
         </ul>
       </nav><!-- .nav-menu -->
     </div>
+
   </header><!-- End Header -->
 
   <!-- ======= Hero Section ======= -->
@@ -120,7 +122,7 @@
                     <span>sanchez.nicko1994@gmail.com</span>
                   </li>
                   <li><i class="bi bi-chevron-right"></i> <strong>Freelance:</strong> <span>Available</span></li>
-                  <li><i class="bi bi-chevron-right"></i> <strong>Resume Link:</strong> <a href="https://drive.google.com/file/d/1KYx650K1Q5LQd-btMGUIYemHhDwtmY3M/view?usp=sharing" target="blank"><span>My CV</span></a></li>
+                  <li><i class="bi bi-chevron-right"></i> <strong>Resume Link:</strong> <a href="https://drive.google.com/file/d/1IxLyn89TZCw_MHbFyCL4gIt5GCXUVhdT/view?usp=sharing" target="blank"><span>My CV</span></a></li>
                 </ul>
               </div>
             </div>
@@ -526,7 +528,7 @@
     </div>
   </footer><!-- End  Footer -->
 
-  <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
+<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i
       class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
